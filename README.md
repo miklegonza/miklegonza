@@ -18,8 +18,9 @@
 
 ### :books: Learning:
 
-- ![React](https://img.shields.io/badge/React-61DAFB?&logo=react&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white) as frontend technologies
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?&logo=docker&logoColor=white) for every field that I'll be involved in
+- ![MongoDB](https://img.shields.io/badge/-47A248?logo=mongodb&logoColor=white) ![ExpressJS](https://img.shields.io/badge/-000000?logo=express&logoColor=white) ![Angular](https://img.shields.io/badge/-0F0F11?&logo=angular&logoColor=white) ![NodeJS](https://img.shields.io/badge/-5FA04E?logo=node.js&logoColor=white) Fullstack MEAN stack
+- ![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white) as frontend technologies
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?&logo=docker&logoColor=white) for managing containers
 - Microservices architecture
 - Something new everyday! 
 
@@ -30,15 +31,16 @@
 ## Languages and tools
 
 <p>
-    <img alt="Static Badge" src="https://img.shields.io/badge/Javascript-ffb833?style=for-the-badge&logo=Javascript&logoColor=ffb833&labelColor=black">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Typescript-3178c6?style=for-the-badge&logo=Typescript&logoColor=3178c6&labelColor=black">
-    <img alt="Static Badge" src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=black">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=ED8B00&labelColor=black">
-    <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=black">
-    <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=black">
-    <img alt="Static Badge" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=black">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=F05032&labelColor=black">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=0080FF&labelColor=black">
+    <img alt="Javascript" src="https://img.shields.io/badge/Javascript-ffb833?style=for-the-badge&logo=Javascript&logoColor=ffb833&labelColor=black">
+    <img alt="Typescript" src="https://img.shields.io/badge/Typescript-3178c6?style=for-the-badge&logo=Typescript&logoColor=3178c6&labelColor=black">
+    <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=black">
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=ED8B00&labelColor=black">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=black">
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=black">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=black">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=black">
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=F05032&labelColor=black">
+    <img alt="Digital Ocean" src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=0080FF&labelColor=black">
 </p>
 
 [![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=miklegonza&theme=github_dark&show_icons=true&count_private=true&locale=en)](https://github.com/miklegonza)
