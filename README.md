@@ -36,9 +36,11 @@
     <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=black">
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=ED8B00&labelColor=black">
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=black">
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&labelColor=black&color=%2347A248">
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=black">
     <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=black">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=black">
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=black">
+    <img alt="Angular" src="https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=angular&labelColor=black&color=%230F0F11">
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=F05032&labelColor=black">
     <img alt="Digital Ocean" src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=0080FF&labelColor=black">
 </p>
@@ -50,11 +52,11 @@
 ## Contact me
 
 <a href="https://www.linkedin.com/in/michael-gonzalez-dev/">
-    <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=black">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=black">
 </a>
 
 <a href="mailto:gonzalez.michael1803@gmail.com">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=black">
+    <img alt="Email" src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=black">
 </a>
 
 <!--
