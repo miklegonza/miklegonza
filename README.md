@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Michael 👋</h1>
 <h3 align="center">A passionate backend developer looking for new opportunities</h3>
 
-- 🌐 Check out my [Webpage](https://michaelgonzalez.live/)
+- 🌐 Check out my [Webpage](https://michaelgonzalez.dev/)
 - 🔭 I’m currently working on [Data Network Overlock](https://github.com/DataNetworkOverlock/DNOProject) and it's [API](https://github.com/DataNetworkOverlock/dno-api)
 - 👨‍💻 All of my projects are available at [Github](https://github.com/miklegonza)
 - 📫 How to reach me **gonzalez.michael1803@gmail.com**
